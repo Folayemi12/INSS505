@@ -1,6 +1,6 @@
 number1=input('Enter number1')
 number2=input("Enter number2")
-number3=input("enter nuber3")
+number3=input("Enter nuber3")
 print(number1,number2,number3)
 sum=int(number1)+int(number2)
 print(sum)
